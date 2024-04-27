@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khanh Linh</h1>
 <p align="center">
-  <h3 align="center">I'm a Data Analyst Intern </h3>
+  <h3 align="center">I'm a Data Analyst </h3>
 </p>
 
 - ✍ I'm a student of: [Ho Chi Minh City University of Economics and Law](https://uel.edu.vn/) (UEL)
