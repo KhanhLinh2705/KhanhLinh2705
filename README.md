@@ -30,7 +30,7 @@
  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
  <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
 
- ## Activities: 
+ ## ✍️ Activities: 
 
 <table style="width:100%;">
   <tr>
