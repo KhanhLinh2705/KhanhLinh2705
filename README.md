@@ -23,6 +23,7 @@
 ## 🌟 Skills:
 <p align="center">
  <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo.png" alt="external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo"/>
