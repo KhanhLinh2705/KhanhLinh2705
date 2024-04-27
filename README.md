@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khanh Linh</h1>
+<p align="center">
+  <h3 align="center">College student loves crunching numbers and wants a job as a data analyst </h3>
+</p>
 
 - ✍ I'm a student of: [Ho Chi Minh City University of Economics and Law](https://uel.edu.vn/) (UEL)
 
@@ -24,7 +27,8 @@
  <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo.png" alt="external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo"/>
  <img width="48" height="48" src="https://img.icons8.com/fluency/48/rstudio.png" alt="rstudio"/>
- <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+ <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
 
  ## Activities: 
 
@@ -41,3 +45,4 @@
     </td>
   </tr>
 </table>
+
