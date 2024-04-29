@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khanh Linh</h1>
 <p align="center">
-  <h3 align="center">I'm a Data Analyst </h3>
+  <h4 align="center">"With passionate about technology, she aspires to navigate the digital realm as a meticulous tester, unraveling complexities to ensure seamless experiences for users." </h4>
 </p>
 
 - ✍ I'm a student of: [Ho Chi Minh City University of Economics and Law](https://uel.edu.vn/) (UEL)
