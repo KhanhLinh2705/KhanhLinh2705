@@ -19,7 +19,7 @@
   <a href="mailto:duongkhanhlinh328@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/duongkhanhlinh275/" alt="linkedin">
+  <a href="https://www.linkedin.com/in/d%C6%B0%C6%A1ngkh%C3%A1nhlinh275/" alt="linkedin">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   
